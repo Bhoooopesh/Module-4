@@ -12,8 +12,19 @@ To write a Python program that calculates the **area of a circle** based on the 
 
 ## 🧾 Program
 
-Add code here
+```
+class cse:
+    def mech(self, r):
+        area = 3.1416 * r * r
+        print("Area of the circle is:", area)
 
+r = float(input())
+obj = cse()
+obj.mech(r)
+
+```
 ## Output
+![image](https://github.com/user-attachments/assets/ea00e8c7-5ace-48fb-9e0e-e26392fa66ac)
 
 ## Result
+Program has been executed successfully.
